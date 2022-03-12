@@ -1,0 +1,458 @@
+.contenedorenc{
+  display: flex;
+}
+a{
+    color: #1762ee;
+    text-decoration: none;
+    font-size: x-large;
+}
+a:hover.ador{
+    color: rgb(49, 211, 16);
+}
+
+.btnprin{
+    width: 200px;
+    height: 250px;
+    text-align: center;
+}
+
+.btnenc{
+
+    border-radius: 3px;
+    display: inline-block;
+    padding: 8px 4px;
+    font-size: large;
+
+    color: white;
+    background-color: blue;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    
+}
+
+.encabezado{
+    /*font-size: large;*/
+    color: rgb(10, 103, 242);
+    width: 200px;
+    height: 80px;
+    left: 500px;
+    position: relative;
+    left: 100px;
+}
+
+.links{
+    font-style: italic;
+    font-size: larger;
+    color: rgb(153, 153, 153);
+    width: 1390px;
+    height: 80px;
+    float: right;
+    display: inline;
+    text-align: right;
+}
+
+.sec1{
+    display: flex;
+    
+}
+
+.tvacuna{
+    color: #1762ee;
+}
+
+.infoprin{
+    
+    width: 850px;
+    height: 600;
+    text-align: center;
+    font-size: large;
+    color: rgb(172, 177, 182);
+}
+
+.infotit{
+    font-size:xx-large;
+    color: #1762ee;
+    text-align: center;
+    font-style: inherit;
+}
+
+.enfermera{
+    width: 600px;
+    height: 600px;
+    background-color: #4BA7F5;
+}
+
+.tuvacuna{
+    display: flex;
+}
+
+.ubicacion{
+    width: 250px;
+    height: 250px;
+    font-size: large;
+    color: #858484;
+}
+
+.fecha{
+    width: 250px;
+    height: 250px;
+    font-size: large;
+    color: #858484;
+}
+
+.tipo{
+    width: 250px;
+    height: 250px;
+    font-size: large;
+    color: #858484;
+}
+
+.ubi{
+    font-style: italic;
+    color: #4BA7F5;
+    text-align: center;
+}
+
+.fech{
+    font-style: italic;
+    color: #4BA7F5;
+    text-align: center;
+}
+
+.tip{
+    font-style: italic;
+    color: #4BA7F5;
+    text-align: center;
+}
+
+.boton{
+
+    width: 250px;
+    height: 250px;
+    text-align: center;
+
+}
+
+.btn{
+
+    border-radius: 3px;
+    display: inline-block;
+    padding: 8px 4px;
+    font-size: x-large;
+
+    color: white;
+    background-color: blue;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+}
+
+.marcas{
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.porque{
+    color: #858484;
+    text-align: justify;
+    font-size: large;
+    margin-left: 25px;
+}
+
+.preg{
+    color: #1355d0;
+}
+
+.beneficios{
+    width: 1300px;
+    height: 400px;
+    display: flex;
+    margin-left: 25px;
+}
+
+.beneficio1{
+    width: 250px;
+    height: 500px;
+}
+
+.beneficio2{
+    width: 250px;
+    height: 500px;
+}
+
+.beneficio3{
+    width: 250px;
+    height: 500px;
+}
+
+.beneficio4{
+    width: 250px;
+    height: 500px;
+}
+
+.pr{
+    color: #858484;
+    text-align: justify;
+}
+
+.before{
+    width: 1300px;
+    height: 700px;
+    display: flex;
+}
+
+.pregu{
+    margin-left: 100px;
+    color: #1648a5;
+}
+
+.info{
+    margin-left: 100px;
+    color: #858484;
+    text-align: justify;
+}
+
+.rect{
+    display: flex;
+    font-size: large;
+    margin-left: 10px;
+
+    width:500px;
+    text-align: left;
+    color: white;
+    box-shadow: 1px 1px 1px 1.5px rgba(0.3,0.3,0.3,0.3);
+}
+
+.rect2{
+
+    border-radius: 5px;
+    display: block;
+    padding: 2px 0px;
+    font-size: large;
+    margin-left: 10px;
+
+    width:500px;
+    height: 150px;
+    text-align: left;
+    
+    box-shadow: 1px 1px 1px 1.5px rgba(0.3,0.3,0.3,0.3);
+}
+
+.Encabezado{
+    display: flex;
+}
+
+.borde{
+    margin-left: 200px;
+}
+
+.borde2{
+    margin-left: 200px;
+}
+
+.Texto{
+    color: rgb(128, 128, 128);
+    text-align: justify;
+}
+
+.recs{
+    margin-left: 100px;
+}
+
+.pre{
+    color: #1648a5;
+    margin-left: 50px;
+}
+
+.conteni{
+    margin-left: 50px;
+}
+
+.infoemer{
+    margin-top: 150px;
+}
+
+.contact{
+    display: block;
+}
+
+.emergenci{
+    display: flex;
+    width: 1340px;
+    height: 700px;
+}
+
+.ventanas{
+    display: block;
+    width: 835px;
+    height: 500px;
+}
+
+.ventanas1{
+    display: flex;
+    width: 835px;
+    height: 200px;
+}
+
+.ventanas2{
+    display: flex;
+    width: 835px;
+    height: 200px;
+}
+
+.enfermero{
+    width: 500px;
+    height: 500px;
+}
+
+.llamada{
+    display: block;
+    font-size: large;
+    margin-left: 100px;
+    margin-top: 150px;
+    text-align: center;
+
+    width:150px;
+    height: 150px;
+    color: white;
+    box-shadow: 1px 1px 1px 1.5px rgba(0.3,0.3,0.3,0.3);
+}
+
+.llam{
+    color: #1648a5;
+}
+
+.num{
+    display: block;
+}
+
+.boton{
+    width: 150px;
+    height: 10px;
+    text-align: center;
+}
+
+.btnllam{
+    border-radius: 3px;
+    display: inline-block;
+    padding: 8px 4px;
+    font-size: large;
+    text-align: center;
+    font-style: Arial;
+
+    color: rgb(53, 92, 223);
+    background-color: rgb(235, 237, 243);
+    text-shadow: 0 1px 0 rgb(176, 194, 228);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+}
+
+.btnchat{
+    border-radius: 3px;
+    display: inline-block;
+    padding: 8px 4px;
+    font-size: large;
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 255);
+    text-shadow: 0 1px 0 rgb(0, 63, 253);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    font-style: Arial;
+}
+
+.te{
+    color: #858484;
+}
+
+.botonc{
+    width: 150px;
+    height: 10px;
+    text-align: center;
+}
+
+.Chat{
+    display: block;
+    font-size: large;
+    margin-left: 100px;
+
+    width:150px;
+    height: 150px;
+    text-align: left;
+    color: white;
+    box-shadow: 1px 1px 1px 1.5px rgba(0.3,0.3,0.3,0.3);
+    text-align:  center;
+    margin-top: 150px;
+}
+
+.pie{
+    display: block;
+    width: 1340px;
+    height: 300px;
+    background-color: #c3cdd4;
+}
+
+.pie1{
+    display: flex;
+    width: 1340px;
+    height: 200px;
+}
+
+.pie2{
+    display: flex;
+    width: 1340px;
+    height: 100px;
+}
+
+.vacu{
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+.about{
+    width: 283.3px;
+    height: 200px;
+}
+
+.company{
+    width: 283.3px;
+    height: 200px;
+}
+
+.support{
+    width: 283.3px;
+    height: 200px;
+}
+
+.tit{
+    color: #144094;
+}
+
+.titu{
+    color: #1a50b6;
+}
+
+.textov{
+    color: #797878;
+    font-size:medium;
+    font-style: italic;
+}
+
+.textoa{
+    color: #797878;
+    font-size:medium;
+}
+
+.derechos{
+    width: 900px;
+    height: 50px;
+}
+
+.terminos{
+    width: 450px;
+    height: 50px;
+}
+
+.textpie{
+    color: #5a5858;
+    font-size: larger;
+}
